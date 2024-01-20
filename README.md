@@ -14,4 +14,10 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
-Added some local info to local repo
+
+Added some local info to local repo: 
+
+- Formatted a bit more this list
+- This time there wasn't a conflict due to the head or conflict in the files
+- Testing with a bulleted list here
+
